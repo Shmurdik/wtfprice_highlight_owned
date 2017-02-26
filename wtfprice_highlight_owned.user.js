@@ -15,6 +15,7 @@ void 0!==c?null===c?void r.removeAttr(a,b):e&&"set"in e&&void 0!==(d=e.set(a,c,b
 
 (function() {
     'use strict';
+    var appIDs = [ appID1 , appID2 , ... ];
 
     appIDs.forEach(function(appid) {
         jQuery("tr[id='" + appid + "']").css("background-color","LightPink");
