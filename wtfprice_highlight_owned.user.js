@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         wtfprice - Highlight owned
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Shmurdik/wtfprice_highlight_owned
 // @version      0.1
 // @description  Highlight owned games in the wtfprice list
 // @author       Shmurdik
