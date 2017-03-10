@@ -5,6 +5,7 @@
 // @description  Highlight owned games in the wtfprice list
 // @author       Shmurdik
 // @match        http://185.159.131.4/~wtfprice/
+// @match        http://wtfprice.ru
 // @grant        none
 // ==/UserScript==
 
