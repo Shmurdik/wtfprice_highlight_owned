@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         wtfprice - Highlight owned
 // @namespace    https://github.com/Shmurdik/wtfprice_highlight_owned
-// @version      0.1
+// @version      1.1
 // @description  Highlight owned games in the wtfprice list
 // @author       Shmurdik
 // @match        http://185.159.131.4/~wtfprice/
